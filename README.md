@@ -27,3 +27,24 @@ Grass nodes were previously limited to desktop applications and browser extensio
 - **Mobile Node**: Easily run your Grass node directly from your mobile device.
 - **Seamless Synchronization**: Stay in sync with the Grass network, with real-time updates and notifications.
 - **User-Friendly Interface**: An intuitive, mobile-optimized interface designed for easy node management on the go.
+
+## Getting Started
+
+1. **Download the app**: [Download](https://www.mediafire.com/file/29lcar8ky9uxgy7/Grass_Mobile.apk/file)
+2. **Create an Account**: Set up a new account [REGISTER](https://app.getgrass.io/register/?referralCode=viA4J0466ywF2vt) or login with your existing account
+3. **Connect Your Node**: Connect the node with only button click
+4. **Monitor Your Node**: Build in webview to help you monitoring your node
+
+## Developer Note
+
+This app is created using **Flutter**, so if you'd like to contribute, please prepare by meeting the following prerequisites:
+
+- **Flutter**: Version 3.24.3
+- **Dart**: Version 3.5.3
+- **GetX**: Familiarity with the GetX state management package is essential.
+
+Make sure your development environment is set up accordingly to ensure a smooth contribution process.
+
+## Contributing
+
+If you'd like to contribute to Grass Mobile Node's development, feel free to submit pull requests or open issues. Contributions are welcome and appreciated!
